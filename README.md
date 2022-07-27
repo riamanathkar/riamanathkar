@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riamanathkar
-- 👀 I’m interested in UI/UX design and front-end development
+- 👀 I’m interested in UI/UX design and full-stack development
 - 🌱 I’m currently studying Computer Science and Human-Computer Interaction at Carnegie Mellon University
 
 <!---
